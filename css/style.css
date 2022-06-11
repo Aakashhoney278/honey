@@ -1,0 +1,34 @@
+body
+{
+  background-color: #CCF3EE;
+}
+
+hr
+{
+border-style: none ;
+border-top-style: dotted ;
+border-color: grey;
+border-width: 5px;
+width:4%;
+}
+h1
+{
+color: #47B5FF;
+}
+h3
+{
+color: #47B5FF;
+}
+.mebaby{
+  background-color: red;
+  border-radius: 8%;
+}
+.sexy{
+  background-color: green;
+  border-radius: 8%;
+}
+
+
+#heading{
+  color: blue;
+}
